@@ -45,4 +45,3 @@ responses:
         updated_at:
           type: string
           description: datetime the object was updated
-          
